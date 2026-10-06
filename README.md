@@ -1,16 +1,19 @@
-## Hi there 👋
+# Marty Ross
 
-<!--
-**noodnik2/noodnik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome! 👋
 
-Here are some ideas to get you started:
+Please consider checking out [my github.io](https://noodnik2.github.io/) page, or any of my public
+repositories.  Among those potentially more interesting to like-minded folks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [flightvisualizer](https://github.com/noodnik2/flightvisualizer)
+- My [fork of JC Moyer's Nuked-SC55](https://github.com/noodnik2/Nuked-SC55)
+- My [addition of "LiveCam" support to SA Horowitz's MSFS2020-PilotPathRecorder](https://github.com/noodnik2/MSFS2020-PilotPathRecorder/blob/master/README-kmlcam.md)
+
+## Can I Help? 🤔
+
+Please reach out to me on [LinkedIn](https://www.linkedin.com/in/mdross510) or [Toptal](https://talent.toptal.com/resume/developers/marty-ross)
+to introduce yourself or if I can collaborate with you with something you're working on.  I enjoy making new connections and learning new things.  
+
+I look forward to hearing what you're up to!
+
+-- Marty
